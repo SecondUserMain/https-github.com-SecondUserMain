@@ -16,7 +16,7 @@ Analista de Segurança da Informação com 4 anos de experiência com foco em:
 
 ## Certificações
 
-- Security+
+- Comptia Security+ 701
 
 
 ## Projetos
